@@ -1,5 +1,7 @@
 package com.hermes.assistant.ui
 
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.graphics.drawscope.rotate
 import androidx.compose.animation.core.RepeatMode
 import androidx.compose.animation.core.animateFloat
 import androidx.compose.animation.core.infiniteRepeatable
